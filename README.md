@@ -1,8 +1,8 @@
 # Olá, eu sou o Weverton 👋
 
-**Tech Lead Front-end** na Fortics, em Horizonte, CE.
+**Tech Lead Front-end** na Fortics, trabalhando remotamente em Horizonte, CE.
 
-Construo e evoluo aplicações em Vue (2 e 3) e Nuxt, com TypeScript, Pinia e Storybook, e lidero um time de cerca de 8 pessoas: code review, mentoria, arquitetura e direcionamento técnico.
+Construo e evoluo aplicações em Vue (2 e 3) e Nuxt, com TypeScript, Pinia e Storybook, e lidero um time de cerca de 8 pessoas: code review, mentoria, arquitetura e direcionamento técnico. Sou líder técnico do front-end do Chat Center, Voice, Channel Connect e Campaign.
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="40" height="40" />
@@ -11,6 +11,7 @@ Construo e evoluo aplicações em Vue (2 e 3) e Nuxt, com TypeScript, Pinia e St
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="40" height="40" /></picture>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/pinia/FFD859" alt="Pinia" title="Pinia" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/rollupdotjs/EC4A3F" alt="Rollup" title="Rollup" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" title="Storybook" width="40" height="40" />
@@ -33,7 +34,7 @@ Construo e evoluo aplicações em Vue (2 e 3) e Nuxt, com TypeScript, Pinia e St
 
 ## Stack
 
-- **Front-end:** Vue 2 e 3 · Nuxt · React · Next.js · TypeScript · Pinia · Vuex · Vite · Rollup · Storybook · Design Systems · SCSS
+- **Front-end:** Vue 2 e 3 · Nuxt · React · Next.js · TypeScript · Pinia · Vuex · GraphQL · Vite · Rollup · Storybook · Design Systems · SCSS
 - **Back-end e ferramentas:** Nest.js · Firebase e MongoDB (uso eventual) · Flutter (apoio) · GitLab CI · GitHub Actions · Git
 
 ## Formação
@@ -48,7 +49,7 @@ Bacharelado em Ciência da Computação, Centro Universitário Farias Brito. Por
 <details>
 <summary>🌐 English</summary>
 
-**Front-end Tech Lead** at Fortics, working remotely from Horizonte, CE, Brazil. I make Vue applications faster and easier to maintain, and I lead the team doing it.
+**Front-end Tech Lead** at Fortics, working remotely from Horizonte, CE, Brazil. I make Vue applications faster and easier to maintain, and I lead the team doing it. I am the front-end tech lead of Chat Center, Voice, Channel Connect and Campaign.
 
 **Impact**
 
@@ -61,7 +62,7 @@ Bacharelado em Ciência da Computação, Centro Universitário Farias Brito. Por
 
 Code review, mentoring a team of about 8, architecture decisions and technical direction. Before Fortics, I was a tech lead at Lux (team of about 3) on a task management and ERP product, including a component library and a Rollup monorepo.
 
-**Stack:** Vue 2 and 3, Nuxt, React, Next.js, TypeScript, Pinia, Vite, Storybook, Nest.js. Occasional Firebase and MongoDB on the back end; Flutter support.
+**Stack:** Vue 2 and 3, Nuxt, React, Next.js, TypeScript, Pinia, GraphQL, Vite, Storybook, Nest.js. Occasional Firebase and MongoDB on the back end; Flutter support.
 
 **Background:** B.Sc. in Computer Science (Centro Universitário Farias Brito). Portuguese (native); English, Spanish and Italian (basic to intermediate).
 
